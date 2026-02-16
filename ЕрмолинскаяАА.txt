@@ -1,3 +1,15 @@
+commit d27920bbe99573e6455b6d9cbb5aaf2fe208918d (HEAD -> main)
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 22:03:09 2026 +0300
+
+    удалены лишние файлы
+
+
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 22:00:27 2026 +0300
+
+    добавлен файл с логом гита
+
 commit 96114df8dc9f13076155bc8c7980a4ec1d3f5859 (HEAD -> main, origin/main)
 Merge: cf69dfa fe51b6f
 Author: Alexandra <linda.joon@yandex.ru>
